@@ -10,7 +10,10 @@ import UIKit
 
 class ques: UITextField {
 
-    @IBOutlet weak var ques: UITextView!
     
+   
+//    @IBOutlet weak var ques: ques!
+    
+
 
 }
